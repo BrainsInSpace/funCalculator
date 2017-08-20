@@ -10,7 +10,7 @@
 
 int main(int argc, const char * argv[]) {
     @autoreleasepool {
-        // insert code here...
+        // 1 + 1 = ... ?
         NSLog(@"Hello, World!");
     }
     return 0;
